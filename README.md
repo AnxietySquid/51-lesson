@@ -16,7 +16,7 @@ _Инструкция по установке обновлена с учётом
 2. **Клонирование проекта**
    ```bash
    # Клонируйте репозиторий
-   git clone https://github.com/neuro-fill/51-lesson.git
+   git clone https://github.com/AnxietySquid/51-lesson.git
    # Перейдите в директорию проекта
    cd 51-lesson
    ```
